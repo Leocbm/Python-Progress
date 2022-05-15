@@ -1,4 +1,5 @@
-# crie um programa que diga o tipo de cada informação
+# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e toas as informações possíveis
+# sobre ele.
 
 tipo = input('Digite a palavra ou número que deseja descobrir o tipo: ')
 

@@ -1,4 +1,4 @@
-# faça um programa que receba um número e diga seu antecessor e sucessor!
+# faça um programa que leia um número e mostre na tela seu antecessor e sucessor!
 
 n1 = int(input('Informe o valor desejado: '))
 ant = n1 - 1

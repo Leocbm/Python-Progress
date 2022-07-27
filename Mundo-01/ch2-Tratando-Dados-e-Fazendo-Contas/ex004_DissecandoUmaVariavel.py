@@ -1,8 +1,7 @@
-# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e toas as informações possíveis
-# sobre ele.
+# Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas
+# as informações possíveis sobre ele.
 
 tipo = input('Digite a palavra ou número que deseja descobrir o tipo: ')
-
 print(f'A palavra/número ({tipo}) é do tipo string? ', tipo.isalpha())
 print(f'A palavra/número ({tipo}) é do tipo espace? ', tipo.isspace())
 print(f'A palavra/número ({tipo}) é do tipo numérico? ', tipo.isnumeric())

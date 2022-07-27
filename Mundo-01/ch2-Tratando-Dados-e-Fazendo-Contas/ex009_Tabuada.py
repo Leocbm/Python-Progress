@@ -1,7 +1,6 @@
 # faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
 
 n = int(input('Informe um valor inteiro: '))
-
 n1 = n * 1
 n2 = n * 2
 n3 = n * 3
@@ -12,7 +11,6 @@ n7 = n * 7
 n8 = n * 8
 n9 = n * 9
 n10 = n * 10
-
 print(f'A tabuada no número {n} de 1 a 10 respectivamente é: ')
 print('-'*15)
 print(f'{n} x {1:2} = {n1}')

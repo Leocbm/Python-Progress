@@ -5,4 +5,4 @@ from math import trunc
 
 n = float(input('Informe o valor que deseja: '))
 print(f'O número {n} tem a parte inteira {trunc(n)}')
-print(f'O número {n} tem a parte inteira {int(n)}')
+# print(f'O número {n} tem a parte inteira {int(n)}')

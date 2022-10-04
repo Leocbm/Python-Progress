@@ -8,7 +8,5 @@ nomeSemEspaco = ''.join(nome.split())
 print(f'\nSeu nome em maiúsculo é {nome.upper()}')
 print(f'\nSeu nome em minúsculo é {nome.lower()}')
 print(f'\nSeu nome completo possui {len(nomeSemEspaco)} letras')
-# ou
-# removeEspaco = len(nome) - nome.count(' ')
-# print(f'\nSeu nome completo possui {removeEspaco} letras')
+# ou len(nome) - nome.count(' ')
 print(f'\nSeu primeiro nome possui {len(nome.split()[0])} letras')

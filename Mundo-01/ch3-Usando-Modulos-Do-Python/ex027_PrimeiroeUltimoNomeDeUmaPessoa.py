@@ -5,6 +5,4 @@
 
 nome = str(input('Digite seu nome completo: ')).strip()
 print(f'\nSeu primeiro nome é {nome.split()[0]} e seu último nome é {nome.split()[-1]}')
-# ou
-# nome2 = nome.split()
-# print(nome2[len(nome2)-1]) para o último nome
+# ou (nome[len(nome)-1]) para o último nome

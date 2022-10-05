@@ -1,5 +1,5 @@
 # Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triângulo retangulo,
-# calcule o mostre o comprimento da hipotenusa
+# calcule o mostre o comprimento da hipotenusa.
 
 from math import hypot
 

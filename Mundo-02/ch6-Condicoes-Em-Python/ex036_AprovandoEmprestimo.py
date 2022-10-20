@@ -2,13 +2,12 @@
 # do comprador e em quantos anos ele vai pagar.
 # A prestação mensal, não pode exceder 30% do salário ou então o empréstimo será negado.
 
-nome = str(input('\nInforme o seu nome: '))
-print(f'\nBem Vindo, {nome} !!')
+nome = str(input('Informe o seu nome: '))
+print(f'Bem Vindo, {nome} !!')
 valorDaCasa = float(input('Informe o valor da casa desejada: '))
 salario = float(input('Informe seu salário: '))
 tempo = int(input('Informe a quantidade de anos em que deseja pagar: '))
-meses = tempo * 12
-parcelas = valorDaCasa / meses
+parcelas = valorDaCasa / (tempo * 12)
 if parcelas < salario * 30 / 100:
     print('Parabéns! O banco aprovou seu empréstimo!')
 else:

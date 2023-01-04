@@ -1,5 +1,5 @@
 # faça um programa que mostre a tabuada de vários números, um de cada vez para cada número digitado pelo usuário
-# o programa deverá ser interrompido se o numero digitado for negativo
+# o programa deverá ser interrompido se o numero digitado for negativo.
 
 while True:
     numero = int(input('Informe um valor para saber sua tabuada [Número negativo para parar]: '))

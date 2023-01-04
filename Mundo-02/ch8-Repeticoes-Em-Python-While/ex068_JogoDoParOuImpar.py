@@ -1,5 +1,5 @@
 # Faça um programa em que o usuário joga par ou impar com o computador e so para qnd o jogador perder
-# mostrando no final o tanto de vitórias consecutivas
+# mostrando no final o tanto de vitórias consecutivas.
 
 from random import randint
 cont = 0

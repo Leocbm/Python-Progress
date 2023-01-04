@@ -1,5 +1,5 @@
 # Faça um programa que leia vários números inteiros pelo teclado e no final mostre a média entre todos ele e qual foi
-# o maior e o menor. o programa deve perguntar se o usuario quer ou nao continuar a digitar os valores.
+# o maior e o menor. O programa deve perguntar se o usuario quer ou nao continuar a digitar os valores.
 
 continuar = 'x'
 maior, menor, cont, soma = 0, 0, 0, 0

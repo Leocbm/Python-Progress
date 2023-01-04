@@ -1,4 +1,4 @@
-# Faça um programa q leia um numero qualquer e mostre seu fatorial
+# Faça um programa q leia um numero qualquer e mostre seu fatorial.
 
 numero = int(input('Informe um valor qualquer e descubra seu fatorial: '))
 mult = numero

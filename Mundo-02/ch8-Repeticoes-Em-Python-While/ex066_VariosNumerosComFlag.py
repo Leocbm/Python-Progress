@@ -1,5 +1,5 @@
 # Crie um programa que leia vários números inteiros que só irão parar qnd receber 999
-# no final mostre qnts numeros foram digitados e qual foi a soma entre eles
+# no final mostre qnts numeros foram digitados e qual foi a soma entre eles.
 
 soma, numero, cont = 0, 0, 0
 while numero != 999:

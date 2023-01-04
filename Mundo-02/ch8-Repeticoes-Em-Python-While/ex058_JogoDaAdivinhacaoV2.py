@@ -1,5 +1,5 @@
 # Melhore o desafio 28, só q dessa vez o jogador tenta até acertar e no final mostra o numero de tentativas feitas
-# entra 0 e 10
+# entra 0 e 10.
 
 from random import randint
 cont = 0

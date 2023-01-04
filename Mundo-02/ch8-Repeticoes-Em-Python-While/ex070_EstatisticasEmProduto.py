@@ -1,4 +1,4 @@
-# Crie um programa que leia o nome e preço de vários produtos. pergunta se quer continuar
+# Crie um programa que leia o nome e preço de vários produtos, pergunta se quer continuar e mostre:
 # qual é o total gasto na compra
 # quantos produtos custam mais de 1000 rs
 # qual é o nome do produto mais barato

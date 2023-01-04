@@ -9,14 +9,14 @@
 from datetime import date
 
 ano = int(input('Informe seu ano de nascimento: '))
-age = date.today().year - ano
-if age <= 9:
+idade = date.today().year - ano
+if idade <= 9:
     print('MIRIM')
-elif 9.1 <= age <= 14:
+elif 9.1 <= idade <= 14:
     print('INFANTIL')
-elif 14.1 <= age <= 19:
+elif 14.1 <= idade <= 19:
     print('JUNIOR')
-elif 19.1 <= age <= 20:
+elif 19.1 <= idade <= 20:
     print('SÊNIOR')
 else:
     print('MASTER')

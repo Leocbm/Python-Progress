@@ -14,4 +14,4 @@ sleep(5)
 if numero == pc:
     print(f'\n\033[32mPARABÉNS! Você é uma pessoa sortuda!\033[32m')
 else:
-    print(f'\n\033[31mHAHAHA Você errou! Tente Novamente!\033[31m')
+    print(f'\n\033[31mHAHAHA Você errou! Meu número era {pc}! Tente Novamente!\033[31m')
